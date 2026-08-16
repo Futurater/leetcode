@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Futurater/leetcode/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Futurater/leetcode/tree/master/0202-happy-number) |
 ## Two Pointers
 |  |
@@ -100,4 +101,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Futurater/leetcode/tree/master/0202-happy-number) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Futurater/leetcode/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Futurater/leetcode/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->

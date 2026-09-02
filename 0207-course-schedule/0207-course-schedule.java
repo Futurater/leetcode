@@ -13,8 +13,8 @@ class Solution {
                 int course=pair[0];
                 int prereq=pair[1];
 
-                adj.get(prereq).add(course);
-                indegree[course]++;
+                adj.get(course).add(prereq);
+                indegree[prereq]++;
             }
 
         }

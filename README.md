@@ -5,17 +5,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Futurater/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Futurater/leetcode/tree/master/0131-palindrome-partitioning) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Futurater/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Futurater/leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Futurater/leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Futurater/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Futurater/leetcode/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/Futurater/leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Futurater/leetcode/tree/master/0131-palindrome-partitioning) |
 ## Bracket Sequences
 |  |
 | ------- |

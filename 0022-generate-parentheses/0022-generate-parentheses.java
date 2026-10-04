@@ -1,24 +1,31 @@
+
+import java.util.*;
+
 class Solution {
     public List<String> generateParenthesis(int n) {
-        
-        List<String>ans=new ArrayList<>();
-        helper(n,0,0,"",ans);
-        return ans;
+        List<String> result = new ArrayList<>();
+        backtrack(result, new StringBuilder(), 0, 0, n);
+        return result;
     }
 
-    void helper(int n,int open,int close,String curr,List<String>ans){
+    public void backtrack(List<String> result, StringBuilder current,
+                          int open, int close, int n) {
 
-        if(curr.length()==2*n){
-            ans.add(curr);
+        if (current.length() == 2 * n) {
+            result.add(current.toString());
             return;
         }
 
-        if(open<n){
-            helper(n,open+1,close,curr+"(",ans);
+        if (open < n) {
+            current.append('(');
+            backtrack(result, current, open + 1, close, n);
+            current.deleteCharAt(current.length() - 1);
         }
 
-        if(close<open){
-            helper(n,open,close+1,curr+")",ans);
+        if (close < open) {
+            current.append(')');
+            backtrack(result, current, open, close + 1, n);
+            current.deleteCharAt(current.length() - 1);
         }
     }
 }

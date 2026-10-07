@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Futurater/leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0115-distinct-subsequences](https://github.com/Futurater/leetcode/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Futurater/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Futurater/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Futurater/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Futurater/leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Futurater/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Futurater/leetcode/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/Futurater/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Futurater/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/Futurater/leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Futurater/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Futurater/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Futurater/leetcode/tree/master/0207-course-schedule) |
+| [0301-remove-invalid-parentheses](https://github.com/Futurater/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Futurater/leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Futurater/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Futurater/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |

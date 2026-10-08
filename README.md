@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Futurater/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Futurater/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Futurater/leetcode/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,12 +127,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Futurater/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Futurater/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Futurater/leetcode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Futurater/leetcode/tree/master/0226-invert-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Futurater/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Futurater/leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Futurater/leetcode/tree/master/0110-balanced-binary-tree) |
+| [0226-invert-binary-tree](https://github.com/Futurater/leetcode/tree/master/0226-invert-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/Futurater/leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Futurater/leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Futurater/leetcode/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/Futurater/leetcode/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Futurater/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0994-rotting-oranges](https://github.com/Futurater/leetcode/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Futurater/leetcode/tree/master/1971-find-if-path-exists-in-graph) |

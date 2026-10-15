@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0853-car-fleet](https://github.com/Futurater/leetcode/tree/master/0853-car-fleet) |
 | [0994-rotting-oranges](https://github.com/Futurater/leetcode/tree/master/0994-rotting-oranges) |
 | [1046-last-stone-weight](https://github.com/Futurater/leetcode/tree/master/1046-last-stone-weight) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Futurater/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Futurater/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Futurater/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Futurater/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/Futurater/leetcode/tree/master/0133-clone-graph) |
 | [0202-happy-number](https://github.com/Futurater/leetcode/tree/master/0202-happy-number) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Futurater/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Futurater/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Futurater/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Futurater/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -248,4 +250,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Futurater/leetcode/tree/master/0836-rectangle-overlap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Futurater/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Futurater/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
